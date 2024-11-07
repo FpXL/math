@@ -12,7 +12,7 @@
 | $\subseteq$     | `\subseteq`        | Subset or equal to                   |
 | $\supset$       | `\supset`          | Superset of                          |
 | $\supseteq$     | `\supseteq`        | Superset or equal to                 |
-| $\emptyset$     | `\emptyset`        | Empty set                            |
+| $\varnothing$     | `\varnothing`        | Empty set                            |
 | $\cup$          | `\cup`             | Union                                |
 | $\cap$          | `\cap`             | Intersection                         |
 | $\setminus$     | `\setminus`        | Set difference (A without B)         |
