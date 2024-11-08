@@ -74,3 +74,39 @@
 | $\bar{x}$       | `\bar{x}`          | Mean or average                      |
 | $\hat{x}$       | `\hat{x}`          | Estimate of \(x\)                    |
 | $\tilde{x}$     | `\tilde{x}`        | Approximately \(x\) or transformed \(x\) |
+|**Greek Lowercase Letters** |                 |                                   |
+| $\alpha$ | `\alpha` | Alpha, often used as a variable | 
+| $\beta$ | `\beta` | Beta, often used as a variable | 
+| $\gamma$ | `\gamma` | Gamma, Euler-Mascheroni constant | 
+| $\delta$ | `\delta` | Delta, small change or variation | 
+| $\epsilon$ | `\epsilon` | Epsilon, small quantity in limits | 
+| $\zeta$ | `\zeta` | Zeta, Riemann zeta function | 
+| $\eta$ | `\eta` | Eta, efficiency in physics | 
+| $\theta$ | `\theta` | Theta, angle or temperature | 
+| $\iota$ | `\iota` | Iota, small quantity | 
+| $\kappa$ | `\kappa` | Kappa, curvature | 
+| $\lambda$ | `\lambda` | Lambda, eigenvalues, wavelength | 
+| $\mu$ | `\mu` | Mu, mean or micro | 
+| $\nu$ | `\nu` | Nu, frequency | 
+| $\xi$ | `\xi` | Xi, random variable in probability | 
+| $\pi$ | `\pi` | Pi, ratio of circumference to diameter | 
+| $\rho$ | `\rho` | Rho, density or radius | 
+| $\sigma$ | `\sigma` | Sigma, summation or standard deviation | 
+| $\tau$ | `\tau` | Tau, time constant | 
+| $\upsilon$ | `\upsilon` | Upsilon, variable | 
+| $\phi$ | `\phi` | Phi, golden ratio or angle | 
+| $\chi$ | `\chi` | Chi, characteristic function | 
+| $\psi$ | `\psi` | Psi, wave function in quantum mechanics| 
+| $\omega$ | `\omega` | Omega, angular frequency |
+|**Greek Capital Letters** | | |
+| $\Gamma$ | `\Gamma` | Gamma, used in functions | 
+| $\Delta$ | `\Delta` | Delta, change or difference | 
+| $\Theta$ | `\Theta` | Theta, asymptotic analysis | 
+| $\Lambda$ | `\Lambda` | Lambda, eigenvalues | 
+| $\Xi$ | `\Xi` | Xi, random variable in probability | 
+| $\Pi$ | `\Pi` | Pi, product notation | 
+| $\Sigma$ | `\Sigma` | Sigma, summation | 
+| $\Upsilon$ | `\Upsilon` | Upsilon, variable | 
+| $\Phi$ | `\Phi` | Phi, angle or magnetic flux | 
+| $\Psi$ | `\Psi` | Psi, wave function in quantum mechanics | 
+| $\Omega$ | `\Omega` | Omega, ohms in resistance, or a limit |
